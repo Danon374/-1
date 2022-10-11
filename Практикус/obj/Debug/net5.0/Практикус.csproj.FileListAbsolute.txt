@@ -1,0 +1,16 @@
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.AssemblyInfo.cs
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.exe
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.deps.json
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.runtimeconfig.json
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.runtimeconfig.dev.json
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.dll
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\ref\Практикус.dll
+C:\Users\krist\source\repos\Практикус\Практикус\bin\Debug\net5.0\Практикус.pdb
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.dll
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\ref\Практикус.dll
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.pdb
+C:\Users\krist\source\repos\Практикус\Практикус\obj\Debug\net5.0\Практикус.genruntimeconfig.cache
